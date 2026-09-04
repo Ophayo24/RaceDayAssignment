@@ -15,3 +15,7 @@ API endpoint plan
 SQL database script
 
 Create CI validation
+
+SQL Server
+
+The SQL script is written for SQL Server 2022 / SSMS. 
