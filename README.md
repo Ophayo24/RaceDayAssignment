@@ -6,3 +6,5 @@ RaceDay is a web-based event management system designed for the South African ro
 User Roles
 Organiser: Creates, edits and deletes events, manages categories, views enrolments and captures results.
 Participant: Creates an account, browses events, selects categories and enrols, views their enrolments and tracks personal results.
+
+Create Document Folder.
