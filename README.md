@@ -21,3 +21,9 @@ SQL Server
 The SQL script is written for SQL Server 2022 / SSMS. 
 
 Youtube Presentation
+
+What the video will cover:
+ERD decisions,
+Endpoint plan choices,
+SQL script design. 
+SQL script is run live in SSMS. 
