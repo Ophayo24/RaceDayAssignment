@@ -8,3 +8,8 @@ Organiser: Creates, edits and deletes events, manages categories, views enrolmen
 Participant: Creates an account, browses events, selects categories and enrols, views their enrolments and tracks personal results.
 
 Create Document Folder.
+
+Folder contains:
+ERD image/PDF
+API endpoint plan
+SQL database script
