@@ -29,3 +29,4 @@ SQL script design.
 SQL script is run live in SSMS. 
 
 Link:
+https://youtu.be/BpaL0nAhu80 
