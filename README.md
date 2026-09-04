@@ -27,3 +27,5 @@ ERD decisions,
 Endpoint plan choices,
 SQL script design. 
 SQL script is run live in SSMS. 
+
+Link:
